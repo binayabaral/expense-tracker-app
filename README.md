@@ -4,7 +4,7 @@ Expense Tracker App made with reactjs
 
 ## Live Demo
 
-This Project is live [here](https://expense-tracker.binayabaral.com.np).
+This Project is live [here](https://expense-tracker-app.binayabaral.com.np).
 
 ## Project Starter
 
