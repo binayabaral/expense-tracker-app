@@ -1,3 +1,13 @@
+## Expense Tracker App
+
+Expense Tracker App made with reactjs
+
+## Live Demo
+
+This Project is live [here](https://expense-tracker.binayabaral.com.np).
+
+## Project Starter
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
